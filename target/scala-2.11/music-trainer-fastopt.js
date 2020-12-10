@@ -3110,7 +3110,7 @@ function $h_Lmusic$undtrainer_scale_Instrument$() {
 $h_Lmusic$undtrainer_scale_Instrument$.prototype = $c_Lmusic$undtrainer_scale_Instrument$.prototype;
 $c_Lmusic$undtrainer_scale_Instrument$.prototype.init___ = (function() {
   $n_Lmusic$undtrainer_scale_Instrument$ = this;
-  this.source$1 = "http://gleitz.github.io/midi-js-soundfonts/FluidR3_GM/";
+  this.source$1 = "https://gleitz.github.io/midi-js-soundfonts/FluidR3_GM/";
   $m_sci_HashMap$();
   var y = new $c_T2().init___O__O(2, "bright_acoustic_piano");
   var array = [new $c_T2().init___O__O("Piano", y)];
