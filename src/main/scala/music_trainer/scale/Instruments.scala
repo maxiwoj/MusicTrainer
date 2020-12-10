@@ -5,7 +5,7 @@ import scala.collection.immutable.HashMap
 
 
 object Instrument {
-    val source = "http://gleitz.github.io/midi-js-soundfonts/FluidR3_GM/"
+    val source = "https://gleitz.github.io/midi-js-soundfonts/FluidR3_GM/"
     val list = HashMap(
         "Piano" -> (2, "bright_acoustic_piano")
         // "Clavinet" -> (8, "clavinet"),
